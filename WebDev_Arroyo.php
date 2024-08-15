@@ -8,7 +8,7 @@
         function calculate_average($math, $science, $english) {
             return ($math + $science + $english) / 3;
         }
-
+        #SASDASFOAIDSHGBEWILBUADLIJKHFBSDLIYHGKLSJEYHFORLIUSADJFHBN SKJGBUIYYGBLIFNHGSDGGDG
         function determine_final_grade($average) {
             if ($average >= 90) {
                 return "A";
